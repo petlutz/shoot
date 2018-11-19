@@ -12,7 +12,7 @@ a simple game with the same basic idea as moorhuhn
 There is also a jMonkey based virtual reality version out now (actually it is still in development ;P).
 You can start it by running the main()-methode in class InvoiceShootVR.
 
-You need following libraries in your classpath:
+Following dependencies are needed in classpath:
 - jMonkeyEngine (tested with version 3.2.1 stable)
 - Google gson (tested with version 2.8.5)
 - lwjgl (tested with version 3.2.0)
