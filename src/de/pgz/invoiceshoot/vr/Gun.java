@@ -96,7 +96,7 @@ public class Gun implements Updateable {
 		for (Target target : ctx.targets()) {
 			if (target.getSpatial().getWorldBound()
 					.intersects(new Ray(geoRay.getWorldTranslation(), geoRay.getWorldRotation().mult(new Vector3f(0, 0, 1))))) {
-				target.explode();
+				target.hit();
 			}
 		}
 

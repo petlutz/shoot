@@ -71,8 +71,6 @@ public class Invoice implements Target, Updateable {
 		return geo;
 	}
 
-
-	@Override
 	public void destroy() {
 		phy.setEnabled(false);
 		geo.removeControl(phy);
@@ -95,7 +93,7 @@ public class Invoice implements Target, Updateable {
 	}
 
 	@Override
-	public void explode() {
+	public void hit() {
 		destroy();
 		ctx.updateables().add(new Explosion(ctx, geo.getWorldTranslation()));
 	}

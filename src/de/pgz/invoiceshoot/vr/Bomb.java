@@ -49,7 +49,6 @@ public class Bomb implements Target, Updateable {
 		return geo;
 	}
 
-	@Override
 	public void destroy() {
 		phy.setEnabled(false);
 		geo.removeControl(phy);
@@ -71,13 +70,13 @@ public class Bomb implements Target, Updateable {
 	}
 	
 	@Override
-	public void explode() {
+	public void hit() {
 		destroy();
 		ctx.updateables().add(new Explosion(ctx,geo.getWorldTranslation(), 5.0f, 1.0f));
 		for (Target target: ctx.targets()) {
 			if (!target.isDead()) {
 				if (target.getSpatial().getWorldBound().distanceTo(geo.getWorldTranslation()) < 10.0f)  {
-					target.explode();
+					target.hit();
 				}
 			}
 		}

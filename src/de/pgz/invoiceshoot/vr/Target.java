@@ -6,7 +6,6 @@ public interface Target extends Updateable {
 
 	public Spatial getSpatial();
 
-	void explode();
+	void hit();
 
-	public void destroy();
 }
