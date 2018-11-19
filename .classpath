@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="E:/dev/jmonkey_master/jmonkeyengine-master/jme3-core/build/libs/jme3-core-unknown.jar"/>
+	<classpathentry kind="lib" path="E:/dev/jmonkey_master/jmonkeyengine-master/jme3-vr/build/libs/jme3-vr-unknown.jar" sourcepath="E:/dev/jmonkey_master/jmonkeyengine-master/jme3-vr/build/libs/jme3-vr-unknown-sources.jar"/>
+	<classpathentry kind="lib" path="E:/dev/jmonkey_master/jmonkeyengine-master/jme3-effects/build/libs/jme3-effects-unknown.jar"/>
+	<classpathentry kind="lib" path="E:/dev/jmonkey_master/jmonkeyengine-master/jme3-desktop/build/libs/jme3-desktop-unknown.jar"/>
+	<classpathentry kind="lib" path="E:/dev/jmonkey_master/jmonkeyengine-master/jme3-plugins/build/libs/jme3-plugins-unknown.jar"/>
+	<classpathentry kind="lib" path="E:/dev/jmonkey_master/jmonkeyengine-master/jme3-bullet/build/libs/jme3-bullet-unknown.jar"/>
+	<classpathentry kind="lib" path="E:/dev/jmonkey_master/jmonkeyengine-master/jme3-blender/build/libs/jme3-blender-unknown.jar"/>
+	<classpathentry kind="lib" path="E:/dev/jmonkey_master/jmonkeyengine-master/jme3-lwjgl3/build/libs/jme3-lwjgl3-unknown.jar"/>
+	<classpathentry kind="lib" path="E:/dev/jmonkey_master/jmonkeyengine-master/jme3-bullet-native/build/libs/jme3-bullet-native-unknown.jar"/>
+	<classpathentry kind="lib" path="E:/dev/jna-5.1.0/dist/jna.jar"/>
+	<classpathentry kind="lib" path="E:/dev/jna-5.1.0/dist/win32-x86-64.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl-openvr/lwjgl-openvr.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl-openvr/lwjgl-openvr-natives-windows.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl-opengl/lwjgl-opengl.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl-opengl/lwjgl-opengl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl/lwjgl.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl/lwjgl-natives-windows.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl-glfw/lwjgl-glfw.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl-glfw/lwjgl-glfw-natives-windows.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl-ovr/lwjgl-ovr.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl-ovr/lwjgl-ovr-natives-windows.jar"/>
+	<classpathentry kind="lib" path="E:/dev/gson-2.8.5.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl-openal/lwjgl-openal.jar"/>
+	<classpathentry kind="lib" path="E:/dev/lwjgl-3.2.0/lwjgl-openal/lwjgl-openal-natives-windows.jar"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

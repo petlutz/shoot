@@ -1,0 +1,20 @@
+explosion.wav:
+
+Source: https://freesound.org/people/V-ktor/sounds/435415/
+License: Creative Commons 0 License (https://creativecommons.org/publicdomain/zero/1.0/)
+
+
+gunmono.wav:
+
+Source: https://freesound.org/people/THE_bizniss/sounds/39459/
+License: Attribution License (https://creativecommons.org/licenses/by/3.0/)
+Copyright © 2007 by THE_bizniss
+All Rights Reserved. 
+
+
+nature.wav:
+
+Source: https://freesound.org/people/tagigobaso/sounds/244059/
+License: Attribution Noncommercial License (https://creativecommons.org/licenses/by-nc/3.0/)
+Copyright © 2014 by tagigobaso
+All Rights Reserved. 
