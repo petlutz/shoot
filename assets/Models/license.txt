@@ -2,7 +2,7 @@ gun.blend:
 
 Source: https://www.blendswap.com/blends/view/15813
 License: CC-BY (https://creativecommons.org/licenses/by/3.0/)
-Copyright © 2011 by Brian Rocz
+Copyright Â© 2011 by Brian Rocz
 All Rights Reserved.
 
 
@@ -10,5 +10,5 @@ bomb.blend:
 
 Source: https://www.blendswap.com/blends/view/83587
 License: CC-BY (https://creativecommons.org/licenses/by/3.0/)
-Copyright © 2016 by danielvanroekel
+Copyright Â© 2016 by danielvanroekel
 All Rights Reserved. 
