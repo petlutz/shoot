@@ -18,6 +18,6 @@ Following dependencies are needed in classpath:
 - lwjgl (tested with version 3.2.0)
 - jna (tested with version 5.1.0)
 
-Notice that you need to compile the jMonkeyEngine by your own, to get the binaries of the needed module jme3-vr (this module is not contained in any current released binary packages). You can do that by downloading the source code from https://github.com/jMonkeyEngine/jmonkeyengine/releases und calling "gradle build" from the main folder.
+Notice that you need to compile the jMonkeyEngine by your own, to get the binaries of the module jme3-vr (this module is not contained in any current released binary packages). You can do that by downloading the source code from https://github.com/jMonkeyEngine/jmonkeyengine/releases und calling "gradle build" from the main folder.
 
 In class Constants you can switch between OpenVR or native Oculus support. Just comment/uncomment the corresponding constants (it is explained in code).
